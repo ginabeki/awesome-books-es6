@@ -1,5 +1,5 @@
 # awesome-books
-In this project, I restructured the Awesome books app code. The goal is to make it more organized by using modules. My ES6 knowledge was also put to test.
+In this project, I refactored the Awesome books app code. The goal is to make it more organized by using modules. My ES6 knowledge was also put to test.
 ## Screenshot of the project
 
 [![bg.png](https://i.postimg.cc/C5dSR6YS/bg.png)](https://postimg.cc/rR6vbjKP)
